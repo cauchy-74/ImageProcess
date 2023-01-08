@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/music_log.png</file>
+        <file>src/music.mp3</file>
+        <file>src/bg3.jpg</file>
+        <file>src/background.png</file>
+        <file>src/filenew.png</file>
+        <file>src/fileopen.png</file>
+        <file>src/slide.png</file>
+        <file>src/picture.png</file>
+        <file>src/help.png</file>
+        <file>src/loading.gif</file>
+        <file>src/save.png</file>
+        <file>src/start.png</file>
+        <file>src/stop.png</file>
+        <file>src/prev.png</file>
+        <file>src/next.png</file>
+        <file>src/1111.jpg</file>
+        <file>src/bg.jpg</file>
+        <file>src/bg2.jpg</file>
+    </qresource>
+</RCC>
